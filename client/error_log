@@ -1,0 +1,304 @@
+[25-Nov-2017 07:34:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/safercir/smartlovas.com/client/logout.php on line 1
+[25-Nov-2017 10:02:22 UTC] PHP Warning:  include(deposits.php): failed to open stream: No such file or directory in /home/safercir/smartlovas.com/client/index.php on line 300
+[25-Nov-2017 10:02:22 UTC] PHP Warning:  include(deposits.php): failed to open stream: No such file or directory in /home/safercir/smartlovas.com/client/index.php on line 300
+[25-Nov-2017 10:02:22 UTC] PHP Warning:  include(): Failed opening 'deposits.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/safercir/smartlovas.com/client/index.php on line 300
+[25-Nov-2017 10:02:47 UTC] PHP Warning:  include(deposits.php): failed to open stream: No such file or directory in /home/safercir/smartlovas.com/client/index.php on line 300
+[25-Nov-2017 10:02:47 UTC] PHP Warning:  include(deposits.php): failed to open stream: No such file or directory in /home/safercir/smartlovas.com/client/index.php on line 300
+[25-Nov-2017 10:02:47 UTC] PHP Warning:  include(): Failed opening 'deposits.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/safercir/smartlovas.com/client/index.php on line 300
+[25-Nov-2017 12:48:04 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/safercir/smartlovas.com/client/logout.php on line 1
+[25-Nov-2017 13:28:37 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/safercir/smartlovas.com/client/logout.php on line 1
+[26-Nov-2017 11:00:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/safercir/smartlovas.com/client/logout.php on line 1
+[27-Nov-2017 14:32:04 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'safercir_smartco'@'localhost' (using password: YES) in /home/magnaexchange/public_html/connect.php on line 8
+[27-Nov-2017 15:36:58 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[27-Nov-2017 15:36:58 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[27-Nov-2017 15:36:58 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[27-Nov-2017 15:36:58 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[27-Nov-2017 15:36:58 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[27-Nov-2017 16:20:51 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[27-Nov-2017 16:20:51 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[27-Nov-2017 16:20:51 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[27-Nov-2017 16:20:51 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[27-Nov-2017 16:20:51 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[27-Nov-2017 17:39:49 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[27-Nov-2017 17:47:52 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[27-Nov-2017 18:01:25 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[27-Nov-2017 18:01:25 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[27-Nov-2017 18:01:25 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 179
+[27-Nov-2017 18:10:13 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[27-Nov-2017 18:10:13 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[27-Nov-2017 18:10:13 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 179
+[27-Nov-2017 18:10:13 UTC] PHP Notice:  Undefined variable: walle in /home/magnaexchange/public_html/client/default.php on line 11
+[27-Nov-2017 19:05:20 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[27-Nov-2017 22:49:02 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[27-Nov-2017 22:49:02 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[27-Nov-2017 22:49:02 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 179
+[27-Nov-2017 22:49:02 UTC] PHP Notice:  Undefined variable: walle in /home/magnaexchange/public_html/client/default.php on line 11
+[27-Nov-2017 22:49:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[27-Nov-2017 22:49:03 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[27-Nov-2017 22:49:03 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[27-Nov-2017 22:49:03 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[27-Nov-2017 22:49:03 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[28-Nov-2017 16:30:13 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[28-Nov-2017 16:36:18 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 16:36:32 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 16:36:54 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 16:37:15 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[28-Nov-2017 16:38:02 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 16:38:49 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 16:38:53 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[28-Nov-2017 16:38:56 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 16:41:31 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[28-Nov-2017 17:38:24 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 17:39:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[28-Nov-2017 17:39:21 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[28-Nov-2017 17:39:21 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[28-Nov-2017 17:39:21 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[28-Nov-2017 17:39:21 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[28-Nov-2017 17:43:17 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 144
+[28-Nov-2017 17:46:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/magnaexchange/public_html/client/transact.php on line 78
+[28-Nov-2017 17:48:29 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 127
+[28-Nov-2017 17:49:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/magnaexchange/public_html/client/transact.php on line 74
+[28-Nov-2017 17:50:35 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 127
+[28-Nov-2017 17:52:39 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 127
+[28-Nov-2017 17:54:00 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 126
+[28-Nov-2017 17:56:02 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 126
+[28-Nov-2017 18:01:14 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 126
+[28-Nov-2017 18:01:53 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 126
+[28-Nov-2017 18:03:53 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 126
+[28-Nov-2017 18:11:44 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[28-Nov-2017 18:11:44 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[28-Nov-2017 18:11:44 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[28-Nov-2017 18:11:44 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[28-Nov-2017 18:11:44 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[28-Nov-2017 20:29:17 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[29-Nov-2017 11:35:01 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[29-Nov-2017 11:46:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 11:46:07 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 11:54:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 11:54:29 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 12:03:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 12:03:20 UTC] PHP Notice:  Undefined index: cur in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 12:03:20 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 189
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined variable: walle in /home/magnaexchange/public_html/client/default.php on line 11
+[29-Nov-2017 12:05:33 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined index: username in /home/magnaexchange/public_html/client/logout.php on line 2
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined index: password in /home/magnaexchange/public_html/client/logout.php on line 3
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 12:05:33 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 12:05:33 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 12:05:33 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 12:05:34 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[29-Nov-2017 12:05:34 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[29-Nov-2017 12:05:34 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 189
+[29-Nov-2017 12:05:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 12:05:34 UTC] PHP Notice:  Undefined index: username in /home/magnaexchange/public_html/client/logout.php on line 2
+[29-Nov-2017 12:05:34 UTC] PHP Notice:  Undefined index: password in /home/magnaexchange/public_html/client/logout.php on line 3
+[29-Nov-2017 12:05:34 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 12:05:34 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 12:05:34 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 12:05:34 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 12:05:59 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[29-Nov-2017 12:05:59 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[29-Nov-2017 12:05:59 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 189
+[29-Nov-2017 12:06:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 12:06:00 UTC] PHP Notice:  Undefined index: username in /home/magnaexchange/public_html/client/logout.php on line 2
+[29-Nov-2017 12:06:00 UTC] PHP Notice:  Undefined index: password in /home/magnaexchange/public_html/client/logout.php on line 3
+[29-Nov-2017 12:06:00 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 12:06:00 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 12:06:00 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 12:06:00 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 12:06:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 12:06:07 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 12:19:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 12:19:58 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/request.php on line 17
+[29-Nov-2017 12:19:58 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 12:23:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 12:23:27 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 12:24:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 12:24:59 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 13:04:49 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[29-Nov-2017 13:04:49 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[29-Nov-2017 13:04:49 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 189
+[29-Nov-2017 13:04:49 UTC] PHP Notice:  Undefined variable: walle in /home/magnaexchange/public_html/client/default.php on line 11
+[29-Nov-2017 13:04:50 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 13:04:50 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 13:04:50 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 13:04:50 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 13:04:50 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 13:05:48 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[29-Nov-2017 13:47:24 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 126
+[29-Nov-2017 13:49:10 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 14:00:02 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 14:02:23 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 14:02:29 UTC] PHP Parse error:  syntax error, unexpected 'post' (T_STRING), expecting ',' or ';' in /home/magnaexchange/public_html/client/sellnow.php on line 8
+[29-Nov-2017 14:12:27 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 14:14:27 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 14:16:52 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 14:19:04 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 14:19:04 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 14:19:04 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 14:19:04 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 14:19:04 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 14:31:50 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 14:54:18 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[29-Nov-2017 14:54:18 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[29-Nov-2017 14:54:18 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 189
+[29-Nov-2017 14:54:18 UTC] PHP Notice:  Undefined variable: walle in /home/magnaexchange/public_html/client/default.php on line 11
+[29-Nov-2017 20:39:42 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 20:45:06 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 66
+[29-Nov-2017 20:46:31 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 20:46:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[29-Nov-2017 20:46:59 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[29-Nov-2017 20:46:59 UTC] PHP Notice:  Undefined variable: bte in /home/magnaexchange/public_html/client/request.php on line 28
+[29-Nov-2017 20:47:08 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 20:47:44 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 20:56:51 UTC] PHP Notice:  Undefined variable: ooy in /home/magnaexchange/public_html/client/makepay.php on line 36
+[29-Nov-2017 20:56:51 UTC] PHP Notice:  Undefined variable: change in /home/magnaexchange/public_html/client/makepay.php on line 39
+[29-Nov-2017 20:56:51 UTC] PHP Notice:  Undefined variable: change in /home/magnaexchange/public_html/client/makepay.php on line 68
+[29-Nov-2017 20:56:51 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 69
+[29-Nov-2017 20:57:48 UTC] PHP Notice:  Undefined variable: change in /home/magnaexchange/public_html/client/makepay.php on line 69
+[29-Nov-2017 20:57:48 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/makepay.php on line 70
+[29-Nov-2017 20:57:58 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 20:58:11 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:05:33 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:06:26 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:07:26 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:09:10 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:09:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 21:09:19 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 21:09:19 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 21:09:19 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 21:09:19 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 21:14:35 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:15:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 21:15:00 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 21:15:00 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 21:15:00 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 21:15:00 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 21:15:15 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:26:40 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 21:55:29 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[29-Nov-2017 21:55:29 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 21:55:29 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[29-Nov-2017 21:55:29 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 21:55:29 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[29-Nov-2017 22:02:12 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[29-Nov-2017 23:59:33 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 00:00:40 UTC] PHP Notice:  Undefined variable: message in /home/magnaexchange/public_html/client/transact.php on line 126
+[30-Nov-2017 00:01:04 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 00:05:11 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 00:05:11 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 00:05:30 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/sellnow.php on line 19
+[30-Nov-2017 00:05:40 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 00:05:40 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 00:22:51 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 2
+[30-Nov-2017 00:22:51 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/client/index.php on line 40
+[30-Nov-2017 00:22:51 UTC] PHP Notice:  Undefined variable: verify in /home/magnaexchange/public_html/client/index.php on line 189
+[30-Nov-2017 00:22:51 UTC] PHP Notice:  Undefined variable: walle in /home/magnaexchange/public_html/client/default.php on line 11
+[30-Nov-2017 00:22:52 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 00:22:52 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 00:22:52 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 00:22:52 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 00:22:52 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 07:14:57 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 07:14:57 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 07:15:36 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/sellnow.php on line 19
+[30-Nov-2017 07:15:42 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 07:15:42 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 07:15:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[30-Nov-2017 07:15:48 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[30-Nov-2017 07:15:48 UTC] PHP Notice:  Undefined variable: bte in /home/magnaexchange/public_html/client/request.php on line 28
+[30-Nov-2017 07:15:59 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 07:15:59 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 07:16:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 07:16:09 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 07:16:09 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 07:16:09 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 07:16:09 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 09:23:05 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 09:23:05 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 09:23:15 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 09:23:15 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 09:23:38 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/sellnow.php on line 19
+[30-Nov-2017 09:23:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 09:23:48 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 09:23:48 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 09:23:48 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 09:23:48 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 10:02:18 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:02:18 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:02:35 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 10:02:35 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 10:02:35 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 10:02:35 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 10:02:35 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 10:04:46 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:04:46 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:04:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/magnaexchange/public_html/connect.php on line 1
+[30-Nov-2017 10:04:53 UTC] PHP Notice:  Undefined index: wt in /home/magnaexchange/public_html/client/request.php on line 27
+[30-Nov-2017 10:04:53 UTC] PHP Notice:  Undefined variable: bte in /home/magnaexchange/public_html/client/request.php on line 28
+[30-Nov-2017 10:04:58 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:04:58 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:05:05 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:05:05 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:05:17 UTC] PHP Warning:  include(history.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/client/index.php on line 280
+[30-Nov-2017 10:05:17 UTC] PHP Warning:  include(): Failed opening 'history.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/client/index.php on line 280
+[30-Nov-2017 10:05:21 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:05:21 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:06:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 10:06:16 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 10:06:16 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 10:06:16 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 10:06:16 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 10:23:05 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:23:05 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 10:23:10 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 10:23:10 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 10:23:10 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 10:23:10 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 10:23:10 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 13:35:01 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 13:35:01 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 13:36:35 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 13:36:35 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 13:36:44 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 13:36:44 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 13:36:44 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 13:36:44 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 13:36:44 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 14:12:11 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:12:11 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:13:57 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:13:57 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:19:13 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:19:13 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:22:47 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:22:47 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:23:21 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:23:21 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:24:40 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:24:40 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:28:41 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:28:41 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:29:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 14:29:09 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 14:29:09 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 14:29:09 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 14:29:09 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 14:35:32 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:35:32 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 14:35:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 14:35:47 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 14:35:47 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 14:35:47 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 14:35:47 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 16:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 16:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/client/coins.php on line 30
+[30-Nov-2017 16:06:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/magnaexchange/public_html/client/logout.php on line 1
+[30-Nov-2017 16:06:45 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 16:06:45 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 6
+[30-Nov-2017 16:06:45 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/client/logout.php on line 7
+[30-Nov-2017 16:06:45 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/client/logout.php on line 7
