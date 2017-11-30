@@ -1,0 +1,357 @@
+[25-Nov-2017 07:47:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/safercir/smartlovas.com/admin/index.php:11) in /home/safercir/smartlovas.com/admin/index.php on line 27
+[25-Nov-2017 12:50:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/safercir/smartlovas.com/admin/cancel.php on line 6
+[25-Nov-2017 12:54:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/safercir/smartlovas.com/admin/index.php:11) in /home/safercir/smartlovas.com/admin/index.php on line 27
+[26-Nov-2017 09:18:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/safercir/smartlovas.com/admin/cancel.php on line 6
+[26-Nov-2017 09:19:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/safercir/smartlovas.com/admin/cancel.php on line 6
+[26-Nov-2017 09:19:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/safercir/smartlovas.com/admin/cancel.php on line 6
+[26-Nov-2017 09:20:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/safercir/smartlovas.com/admin/approve.php on line 6
+[26-Nov-2017 09:46:02 UTC] PHP Warning:  Division by zero in /home/safercir/smartlovas.com/admin/single.php on line 32
+[26-Nov-2017 09:46:02 UTC] PHP Warning:  Division by zero in /home/safercir/smartlovas.com/admin/single.php on line 32
+[26-Nov-2017 09:46:02 UTC] PHP Warning:  Division by zero in /home/safercir/smartlovas.com/admin/single.php on line 32
+[26-Nov-2017 09:46:02 UTC] PHP Warning:  Division by zero in /home/safercir/smartlovas.com/admin/single.php on line 32
+[26-Nov-2017 09:46:02 UTC] PHP Warning:  Division by zero in /home/safercir/smartlovas.com/admin/single.php on line 32
+[26-Nov-2017 09:46:02 UTC] PHP Warning:  Division by zero in /home/safercir/smartlovas.com/admin/single.php on line 32
+[26-Nov-2017 09:46:02 UTC] PHP Warning:  Division by zero in /home/safercir/smartlovas.com/admin/single.php on line 32
+[26-Nov-2017 10:13:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/safercir/smartlovas.com/admin/approve.php on line 6
+[26-Nov-2017 10:15:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/safercir/smartlovas.com/admin/approve.php on line 6
+[27-Nov-2017 15:38:47 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:38:56 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:39:29 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 15:39:29 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 15:39:29 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:40:44 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 15:40:44 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 15:40:44 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:41:02 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 15:41:02 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 15:41:02 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:42:20 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 15:42:20 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 15:42:20 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:42:24 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:49:03 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 15:49:03 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 15:49:03 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:50:14 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 15:50:14 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 15:50:14 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:52:35 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 15:52:35 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 15:52:35 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 15:56:14 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:19:18 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:19:25 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:23:42 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 16:23:42 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 16:23:42 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:23:55 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 16:23:55 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 16:23:55 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:44:54 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:45:03 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 16:45:03 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 16:45:03 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:45:14 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:45:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:49:01 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:49:09 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 16:49:18 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:16:33 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:16:59 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:09 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:12 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[27-Nov-2017 17:17:12 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[27-Nov-2017 17:17:12 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:19 UTC] PHP Warning:  include(invest.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/admin/index.php on line 292
+[27-Nov-2017 17:17:19 UTC] PHP Warning:  include(): Failed opening 'invest.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/admin/index.php on line 292
+[27-Nov-2017 17:17:19 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:24 UTC] PHP Notice:  Undefined index: uid in /home/magnaexchange/public_html/admin/support.php on line 51
+[27-Nov-2017 17:17:24 UTC] PHP Notice:  Undefined index: uid in /home/magnaexchange/public_html/admin/support.php on line 208
+[27-Nov-2017 17:17:24 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:30 UTC] PHP Notice:  Undefined index: uid in /home/magnaexchange/public_html/admin/support.php on line 51
+[27-Nov-2017 17:17:30 UTC] PHP Notice:  Undefined index: uid in /home/magnaexchange/public_html/admin/support.php on line 208
+[27-Nov-2017 17:17:30 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:32 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:33 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:36 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:41 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 17:17:44 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 19:00:23 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[27-Nov-2017 19:00:53 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[28-Nov-2017 17:40:59 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[28-Nov-2017 17:41:42 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[28-Nov-2017 17:41:42 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[28-Nov-2017 17:41:42 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[28-Nov-2017 17:41:57 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[28-Nov-2017 17:41:57 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[28-Nov-2017 17:41:57 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[28-Nov-2017 17:42:12 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[28-Nov-2017 17:42:23 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[28-Nov-2017 17:42:23 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[28-Nov-2017 17:42:23 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[28-Nov-2017 17:42:23 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[28-Nov-2017 17:42:23 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[28-Nov-2017 17:42:23 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 12:20:44 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:20:59 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[29-Nov-2017 12:20:59 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[29-Nov-2017 12:20:59 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:21:24 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 105
+[29-Nov-2017 12:21:24 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 111
+[29-Nov-2017 12:21:24 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:33:39 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:33:47 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:33:52 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 12:33:52 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:35:30 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:35:41 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:35:46 UTC] PHP Notice:  Undefined variable: rid in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 12:35:46 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 12:35:46 UTC] PHP Notice:  Undefined variable: sub in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 12:35:46 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 12:35:46 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:35:53 UTC] PHP Warning:  include(chatroom.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/admin/index.php on line 302
+[29-Nov-2017 12:35:53 UTC] PHP Warning:  include(): Failed opening 'chatroom.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/admin/index.php on line 302
+[29-Nov-2017 12:35:53 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:36:01 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:36:08 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:40:39 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:40:57 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:41:02 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[29-Nov-2017 12:41:02 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[29-Nov-2017 12:41:02 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 12:41:02 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 12:41:02 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 12:41:02 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 12:46:40 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:46:55 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:47:01 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:47:13 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:47:19 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:47:23 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:47:29 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:47:35 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 12:47:40 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:06:58 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:07:33 UTC] PHP Notice:  Undefined variable: accc in /home/magnaexchange/public_html/admin/manualpay.php on line 37
+[29-Nov-2017 13:07:33 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:07:41 UTC] PHP Notice:  Undefined index: type in /home/magnaexchange/public_html/admin/approve.php on line 7
+[29-Nov-2017 13:07:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/magnaexchange/public_html/admin/approve.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/magnaexchange/public_html/admin/approve.php on line 6
+[29-Nov-2017 13:07:42 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:20:11 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 66
+[29-Nov-2017 13:20:11 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 72
+[29-Nov-2017 13:20:11 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:25:46 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 66
+[29-Nov-2017 13:25:46 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 72
+[29-Nov-2017 13:25:46 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:27:48 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 77
+[29-Nov-2017 13:27:48 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 83
+[29-Nov-2017 13:27:48 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:29:21 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:29:30 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[29-Nov-2017 13:29:30 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[29-Nov-2017 13:29:30 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 414
+[29-Nov-2017 13:41:55 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[29-Nov-2017 13:41:55 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[29-Nov-2017 13:41:55 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:12:26 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:12:55 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:17:30 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:17:35 UTC] PHP Notice:  Undefined variable: rpp in /home/magnaexchange/public_html/admin/wrequest.php on line 69
+[29-Nov-2017 14:17:35 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:22:32 UTC] PHP Notice:  Undefined variable: rpp in /home/magnaexchange/public_html/admin/wrequest.php on line 47
+[29-Nov-2017 14:22:32 UTC] PHP Notice:  Undefined variable: wall2 in /home/magnaexchange/public_html/admin/wrequest.php on line 49
+[29-Nov-2017 14:22:32 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:25:55 UTC] PHP Notice:  Undefined variable: rpp in /home/magnaexchange/public_html/admin/wrequest.php on line 47
+[29-Nov-2017 14:25:55 UTC] PHP Notice:  Undefined variable: wall2 in /home/magnaexchange/public_html/admin/wrequest.php on line 49
+[29-Nov-2017 14:25:55 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:31:07 UTC] PHP Notice:  Undefined variable: wall2 in /home/magnaexchange/public_html/admin/wrequest.php on line 49
+[29-Nov-2017 14:31:07 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:31:16 UTC] PHP Notice:  Undefined variable: refn in /home/magnaexchange/public_html/admin/wpay.php on line 15
+[29-Nov-2017 14:31:18 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 14:32:28 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/admin/index.php on line 2
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/admin/index.php on line 53
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/admin/index.php on line 269
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined index: u2 in /home/magnaexchange/public_html/admin/index.php on line 282
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:01:46 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:01:46 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:01:46 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:02:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:02:59 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:03:07 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:03:14 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[29-Nov-2017 16:03:14 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[29-Nov-2017 16:03:14 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:03:39 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:03:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:03:55 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:04:06 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:04:11 UTC] PHP Notice:  Undefined variable: rid in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:04:11 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:04:11 UTC] PHP Notice:  Undefined variable: sub in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:04:11 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:04:11 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:04:18 UTC] PHP Warning:  include(chatroom.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/admin/index.php on line 316
+[29-Nov-2017 16:04:18 UTC] PHP Warning:  include(): Failed opening 'chatroom.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/admin/index.php on line 316
+[29-Nov-2017 16:04:18 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:04:35 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:04:36 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:05:06 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[29-Nov-2017 16:05:06 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[29-Nov-2017 16:05:06 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:05:06 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:05:06 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:05:06 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:05:55 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:06:34 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:06:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/magnaexchange/public_html/admin/verify.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/magnaexchange/public_html/admin/verify.php on line 5
+[29-Nov-2017 16:06:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:06:51 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[29-Nov-2017 16:06:51 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[29-Nov-2017 16:06:51 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:07:03 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:07:11 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:07:25 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:07:43 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[29-Nov-2017 16:07:43 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[29-Nov-2017 16:07:43 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:07:43 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:07:43 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:07:43 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:09:05 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:09:41 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:10:01 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:10:18 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[29-Nov-2017 16:10:18 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[29-Nov-2017 16:10:18 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:10:39 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:00 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:44 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:44 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:46 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:46 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:11:46 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:12:00 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:12:16 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:12:16 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:12:16 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:12:16 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:12:16 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:12:16 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 35
+[29-Nov-2017 16:12:16 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:12:29 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[29-Nov-2017 16:12:29 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[29-Nov-2017 16:12:29 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:12:29 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[29-Nov-2017 16:12:29 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:12:29 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[29-Nov-2017 16:13:22 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:13:56 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:14:32 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:14:47 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[29-Nov-2017 16:14:47 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[29-Nov-2017 16:14:47 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:15:03 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:15:10 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:15:35 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:15:45 UTC] PHP Notice:  Undefined variable: rid in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:15:45 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:15:45 UTC] PHP Notice:  Undefined variable: sub in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:15:45 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[29-Nov-2017 16:15:45 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:16:00 UTC] PHP Warning:  include(chatroom.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/admin/index.php on line 316
+[29-Nov-2017 16:16:00 UTC] PHP Warning:  include(): Failed opening 'chatroom.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/admin/index.php on line 316
+[29-Nov-2017 16:16:00 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:16:14 UTC] PHP Warning:  include(chatroom.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/admin/index.php on line 316
+[29-Nov-2017 16:16:14 UTC] PHP Warning:  include(): Failed opening 'chatroom.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/admin/index.php on line 316
+[29-Nov-2017 16:16:14 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[29-Nov-2017 16:16:14 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:16:14 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:16:14 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:16:14 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 32
+[29-Nov-2017 16:16:14 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 35
+[29-Nov-2017 16:16:14 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 00:04:06 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 00:04:27 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 00:04:37 UTC] PHP Notice:  Undefined variable: accc in /home/magnaexchange/public_html/admin/manualpay.php on line 36
+[30-Nov-2017 00:04:37 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 00:04:42 UTC] PHP Notice:  Undefined index: type in /home/magnaexchange/public_html/admin/approve.php on line 7
+[30-Nov-2017 00:04:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/magnaexchange/public_html/admin/approve.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/magnaexchange/public_html/admin/approve.php on line 6
+[30-Nov-2017 00:04:42 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:15:33 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:15:37 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[30-Nov-2017 10:15:37 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[30-Nov-2017 10:15:37 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:15:48 UTC] PHP Notice:  Undefined variable: se10 in /home/magnaexchange/public_html/admin/settings.php on line 78
+[30-Nov-2017 10:15:48 UTC] PHP Notice:  Undefined variable: se11 in /home/magnaexchange/public_html/admin/settings.php on line 84
+[30-Nov-2017 10:15:48 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:15:54 UTC] PHP Warning:  include(chatroom.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/admin/index.php on line 316
+[30-Nov-2017 10:15:54 UTC] PHP Warning:  include(): Failed opening 'chatroom.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/admin/index.php on line 316
+[30-Nov-2017 10:15:54 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:23:42 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:23:48 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:23:54 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:23:59 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:02 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:04 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:06 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:11 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:16 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:19 UTC] PHP Notice:  Undefined variable: rid in /home/magnaexchange/public_html/admin/report.php on line 30
+[30-Nov-2017 10:24:19 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[30-Nov-2017 10:24:19 UTC] PHP Notice:  Undefined variable: sub in /home/magnaexchange/public_html/admin/report.php on line 30
+[30-Nov-2017 10:24:19 UTC] PHP Notice:  Undefined variable: wd in /home/magnaexchange/public_html/admin/report.php on line 30
+[30-Nov-2017 10:24:19 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:24 UTC] PHP Warning:  include(chatroom.php): failed to open stream: No such file or directory in /home/magnaexchange/public_html/admin/index.php on line 316
+[30-Nov-2017 10:24:24 UTC] PHP Warning:  include(): Failed opening 'chatroom.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/magnaexchange/public_html/admin/index.php on line 316
+[30-Nov-2017 10:24:24 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:29 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:33 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 32
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 35
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  Division by zero in /home/magnaexchange/public_html/admin/single.php on line 32
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 32
+[30-Nov-2017 10:24:34 UTC] PHP Warning:  A non-numeric value encountered in /home/magnaexchange/public_html/admin/single.php on line 35
+[30-Nov-2017 10:24:34 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:24:48 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:25:02 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 10:25:10 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[30-Nov-2017 10:25:10 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[30-Nov-2017 10:25:10 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[30-Nov-2017 10:25:10 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[30-Nov-2017 10:25:10 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[30-Nov-2017 10:25:10 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[30-Nov-2017 10:45:15 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[30-Nov-2017 10:45:15 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[30-Nov-2017 10:45:15 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[30-Nov-2017 10:45:15 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[30-Nov-2017 10:45:15 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[30-Nov-2017 10:45:15 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
+[30-Nov-2017 13:38:40 UTC] PHP Notice:  Undefined variable: pageURL in /home/magnaexchange/public_html/admin/index.php on line 428
+[30-Nov-2017 14:06:53 UTC] PHP Notice:  Undefined index: email in /home/magnaexchange/public_html/admin/logout.php on line 4
+[30-Nov-2017 14:06:53 UTC] PHP Notice:  Undefined index: pass in /home/magnaexchange/public_html/admin/logout.php on line 5
+[30-Nov-2017 14:06:53 UTC] PHP Notice:  Undefined variable: e in /home/magnaexchange/public_html/admin/logout.php on line 8
+[30-Nov-2017 14:06:53 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 8
+[30-Nov-2017 14:06:53 UTC] PHP Notice:  Undefined variable: p in /home/magnaexchange/public_html/admin/logout.php on line 9
+[30-Nov-2017 14:06:53 UTC] PHP Warning:  Cookie names must not be empty in /home/magnaexchange/public_html/admin/logout.php on line 9
